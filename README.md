@@ -261,40 +261,10 @@ socks5://127.0.0.1:1080
 - 增加 IP 获取接口，永久更换 IP。
 - 增加每次请求更换 IP 功能。
 
-## 开发计划
 
-- [x] 增加本地服务器身份鉴别功能，保证在公网使用过程中不被恶意盗用。
-- [x] 增加每次请求更换 IP 功能。
-- [x] 增加静态代理自动获取更新模块，从而永久运行。
-- [x] 增加负载均衡模式，同时使用大量代理地址发送，提高并发效率，减少单一服务器负载。
-- [x] 增加版本检测功能。
-- [x] 增加代理地址身份鉴别支持。
-- [x] 增加功能，仅在收到新请求的情况下才使用 `getip` 更新，减少 IP 消耗。
-- [x] 首次启动时批量对 `ip.txt` 中的代理服务器进行有效性检查。
-- [x] 增加本地监听 SOCKS 协议，或全面改成 SOCKS，以适配更多软件。
-- [ ] 增加详细日志记录，记录所有连接 ProxyCat 的 IP 身份，支持多用户。
 
-如果您有好的创意，或在使用过程中遇到bug，请通过以下方式联系作者反馈！
 
-微信公众号：**樱花庄的本间白猫**
-
-## 鸣谢
-
-本排名不分先后，感谢为本项目提供帮助的师傅们。
-
-- [AabyssZG (曾哥)](https://github.com/AabyssZG)
-- [ProbiusOfficial (探姬)](https://github.com/ProbiusOfficial)
-- chars6
-
-![Star History Chart](https://api.star-history.com/svg?repos=honmashironeko/ProxyCat&type=Date)
-
-## 赞助开源
-
-开源不易，如果您觉得工具不错，或许可以试着赞助一下作者的开发哦~
-
-![赞助](./assets/202408260020820.png)
 
 ## 代理推荐
 
-- [第一家便宜大碗代理购买，用邀请码注册得5000免费IP+10元优惠券](https://h.shanchendaili.com/invite_reg.html?invite=fM6fVG)
-- [各大运营商流量卡](https://172.lot-ml.com/ProductEn/Index/0b7c9adef5e9648f)
+- [各大运营商流量卡-请找王大锤]([https://t.me/+vPb1g7us8HY3NzRl])
