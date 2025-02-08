@@ -267,4 +267,4 @@ socks5://127.0.0.1:1080
 
 ## 代理推荐
 
-- [各大运营商流量卡-请找王大锤]([https://t.me/+vPb1g7us8HY3NzRl])
+- [各大运营商流量卡-请找王大锤]([https://t.me/+vPb1g7us8HY3NzRl])：https://t.me/+vPb1g7us8HY3NzRl
